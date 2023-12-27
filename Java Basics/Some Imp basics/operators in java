@@ -1,0 +1,7 @@
+Operator in java 
+1=> Arthemetic Operator
++ ,-,*,/,%  =>  Binary
+++,-  =>  Unary 
+
+2=> Relational Operator
+==,!=,>,<,>=,<=
